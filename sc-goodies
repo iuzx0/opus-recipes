@@ -1,0 +1,481 @@
+{
+  name = "SwitchCraft Goodies",
+  version = "MC 1.19.4",
+  recipes = {
+    [ "sc-goodies:iron_diamond_chest_upgrade" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:diamond",
+        [ 10 ] = "minecraft:diamond",
+        [ 7 ] = "minecraft:glass",
+        [ 9 ] = "minecraft:diamond",
+      },
+      displayName = "Iron to Diamond Storage Upgrade",
+    },
+    [ "sc-goodies:hover_boots_black" ] = {
+      ingredients = {},
+      count = 1,
+    },
+    [ "sc-goodies:purple_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:purple_concrete",
+        [ 10 ] = "minecraft:purple_concrete",
+        [ 6 ] = "minecraft:purple_concrete",
+        [ 5 ] = "minecraft:purple_concrete",
+        [ 9 ] = "minecraft:purple_concrete",
+      },
+      displayName = "Purple Concrete Stairs",
+    },
+    [ "sc-goodies:blue_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:blue_concrete",
+        [ 2 ] = "minecraft:blue_concrete",
+      },
+      displayName = "Blue Concrete Slab",
+    },
+    [ "sc-goodies:lime_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:lime_concrete",
+        [ 2 ] = "minecraft:lime_concrete",
+      },
+      displayName = "Lime Concrete Slab",
+    },
+    [ "sc-goodies:vanilla_iron_chest_upgrade" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:iron_ingot",
+        [ 10 ] = "minecraft:iron_ingot",
+        [ 7 ] = "minecraft:iron_ingot",
+        [ 9 ] = "minecraft:iron_ingot",
+      },
+      displayName = "Vanilla to Iron Storage Upgrade",
+    },
+    [ "sc-goodies:green_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:green_concrete",
+        [ 2 ] = "minecraft:green_concrete",
+      },
+      displayName = "Green Concrete Slab",
+    },
+    [ "sc-goodies:ender_storage" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:blaze_rod",
+        [ 10 ] = "minecraft:ender_pearl",
+        [ 7 ] = "minecraft:obsidian",
+        [ 9 ] = "minecraft:blaze_rod",
+      },
+      displayName = "Ender Storage",
+    },
+    [ "sc-goodies:yellow_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:yellow_concrete",
+        [ 10 ] = "minecraft:yellow_concrete",
+        [ 6 ] = "minecraft:yellow_concrete",
+        [ 5 ] = "minecraft:yellow_concrete",
+        [ 9 ] = "minecraft:yellow_concrete",
+      },
+      displayName = "Yellow Concrete Stairs",
+    },
+    [ "sc-goodies:brown_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:brown_concrete",
+        [ 10 ] = "minecraft:brown_concrete",
+        [ 6 ] = "minecraft:brown_concrete",
+        [ 5 ] = "minecraft:brown_concrete",
+        [ 9 ] = "minecraft:brown_concrete",
+      },
+      displayName = "Brown Concrete Stairs",
+    },
+    [ "sc-goodies:purple_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:purple_concrete",
+        [ 2 ] = "minecraft:purple_concrete",
+      },
+      displayName = "Purple Concrete Slab",
+    },
+    [ "sc-goodies:black_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:black_concrete",
+        [ 10 ] = "minecraft:black_concrete",
+        [ 6 ] = "minecraft:black_concrete",
+        [ 5 ] = "minecraft:black_concrete",
+        [ 9 ] = "minecraft:black_concrete",
+      },
+      displayName = "Black Concrete Stairs",
+    },
+    [ "sc-goodies:barrel_hammer" ] = {
+      count = 1,
+      ingredients = {
+        [ 6 ] = "minecraft:iron_ingot",
+        [ 2 ] = "minecraft:oak_slab",
+        [ 10 ] = "minecraft:iron_ingot",
+      },
+      displayName = "Barrel Hammer",
+    },
+    [ "sc-goodies:gray_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:gray_concrete",
+        [ 2 ] = "minecraft:gray_concrete",
+      },
+      displayName = "Gray Concrete Slab",
+    },
+    [ "sc-goodies:gold_chest" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:gold_ingot",
+        [ 10 ] = "minecraft:gold_ingot",
+        [ 7 ] = "minecraft:gold_ingot",
+        [ 9 ] = "minecraft:gold_ingot",
+      },
+      displayName = "Gold Chest",
+    },
+    [ "sc-goodies:white_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:white_concrete",
+        [ 10 ] = "minecraft:white_concrete",
+        [ 6 ] = "minecraft:white_concrete",
+        [ 5 ] = "minecraft:white_concrete",
+        [ 9 ] = "minecraft:white_concrete",
+      },
+      displayName = "White Concrete Stairs",
+    },
+    [ "sc-goodies:diamond_barrel" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:diamond",
+        [ 10 ] = "minecraft:diamond",
+        [ 7 ] = "minecraft:glass",
+        [ 9 ] = "minecraft:diamond",
+      },
+      displayName = "Diamond Barrel",
+    },
+    [ "sc-goodies:red_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:red_concrete",
+        [ 10 ] = "minecraft:red_concrete",
+        [ 6 ] = "minecraft:red_concrete",
+        [ 5 ] = "minecraft:red_concrete",
+        [ 9 ] = "minecraft:red_concrete",
+      },
+      displayName = "Red Concrete Stairs",
+    },
+    [ "sc-goodies:black_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:black_concrete",
+        [ 2 ] = "minecraft:black_concrete",
+      },
+      displayName = "Black Concrete Slab",
+    },
+    [ "sc-goodies:light_gray_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:light_gray_concrete",
+        [ 2 ] = "minecraft:light_gray_concrete",
+      },
+      displayName = "Light Gray Concrete Slab",
+    },
+    [ "sc-goodies:red_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:red_concrete",
+        [ 2 ] = "minecraft:red_concrete",
+      },
+      displayName = "Red Concrete Slab",
+    },
+    [ "sc-goodies:cyan_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:cyan_concrete",
+        [ 2 ] = "minecraft:cyan_concrete",
+      },
+      displayName = "Cyan Concrete Slab",
+    },
+    [ "sc-goodies:orange_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:orange_concrete",
+        [ 10 ] = "minecraft:orange_concrete",
+        [ 6 ] = "minecraft:orange_concrete",
+        [ 5 ] = "minecraft:orange_concrete",
+        [ 9 ] = "minecraft:orange_concrete",
+      },
+      displayName = "Orange Concrete Stairs",
+    },
+    [ "sc-goodies:pink_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:pink_concrete",
+        [ 10 ] = "minecraft:pink_concrete",
+        [ 6 ] = "minecraft:pink_concrete",
+        [ 5 ] = "minecraft:pink_concrete",
+        [ 9 ] = "minecraft:pink_concrete",
+      },
+      displayName = "Pink Concrete Stairs",
+    },
+    [ "sc-goodies:yellow_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:yellow_concrete",
+        [ 2 ] = "minecraft:yellow_concrete",
+      },
+      displayName = "Yellow Concrete Slab",
+    },
+    [ "sc-goodies:orange_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:orange_concrete",
+        [ 2 ] = "minecraft:orange_concrete",
+      },
+      displayName = "Orange Concrete Slab",
+    },
+    [ "sc-goodies:green_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:green_concrete",
+        [ 10 ] = "minecraft:green_concrete",
+        [ 6 ] = "minecraft:green_concrete",
+        [ 5 ] = "minecraft:green_concrete",
+        [ 9 ] = "minecraft:green_concrete",
+      },
+      displayName = "Green Concrete Stairs",
+    },
+    [ "sc-goodies:gold_diamond_chest_upgrade" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:glass",
+        [ 10 ] = "minecraft:glass",
+        [ 7 ] = "minecraft:diamond",
+        [ 9 ] = "minecraft:glass",
+      },
+      displayName = "Gold to Diamond Storage Upgrade",
+    },
+    [ "sc-goodies:iron_barrel" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:iron_ingot",
+        [ 10 ] = "minecraft:iron_ingot",
+        [ 7 ] = "minecraft:iron_ingot",
+        [ 9 ] = "minecraft:iron_ingot",
+      },
+      displayName = "Iron Barrel",
+    },
+    [ "sc-goodies:iron_gold_chest_upgrade" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:gold_ingot",
+        [ 10 ] = "minecraft:gold_ingot",
+        [ 7 ] = "minecraft:gold_ingot",
+        [ 9 ] = "minecraft:gold_ingot",
+      },
+      displayName = "Iron to Gold Storage Upgrade",
+    },
+    [ "sc-goodies:glass_item_frame" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:glass_pane",
+        [ 10 ] = "minecraft:glass_pane",
+        [ 7 ] = "minecraft:glass_pane",
+        [ 9 ] = "minecraft:glass_pane",
+      },
+      displayName = "Glass Item Frame",
+    },
+    [ "sc-goodies:pink_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:pink_concrete",
+        [ 2 ] = "minecraft:pink_concrete",
+      },
+      displayName = "Pink Concrete Slab",
+    },
+    [ "sc-goodies:item_magnet" ] = {
+      count = 1,
+      ingredients = {
+        [ "9" ] = "minecraft:redstone_block",
+        [ 7 ] = "minecraft:lapis_block",
+        [ 10 ] = "minecraft:nether_star",
+        [ 5 ] = "minecraft:redstone_block",
+        [ 11 ] = "minecraft:lapis_block",
+      },
+      displayName = "Item Magnet",
+    },
+    [ "sc-goodies:glow_glass_item_frame" ] = {
+      count = 1,
+      ingredients = {
+        "sc-goodies:glass_item_frame",
+        "minecraft:glow_ink_sac",
+      },
+      displayName = "Glow Glass Item Frame",
+    },
+    [ "sc-goodies:light_gray_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:light_gray_concrete",
+        [ 10 ] = "minecraft:light_gray_concrete",
+        [ 6 ] = "minecraft:light_gray_concrete",
+        [ 5 ] = "minecraft:light_gray_concrete",
+        [ 9 ] = "minecraft:light_gray_concrete",
+      },
+      displayName = "Light Gray Concrete Stairs",
+    },
+    [ "sc-goodies:light_blue_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:light_blue_concrete",
+        [ 2 ] = "minecraft:light_blue_concrete",
+      },
+      displayName = "Light Blue Concrete Slab",
+    },
+    [ "sc-goodies:magenta_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:magenta_concrete",
+        [ 10 ] = "minecraft:magenta_concrete",
+        [ 6 ] = "minecraft:magenta_concrete",
+        [ 5 ] = "minecraft:magenta_concrete",
+        [ 9 ] = "minecraft:magenta_concrete",
+      },
+      displayName = "Magenta Concrete Stairs",
+    },
+    [ "sc-goodies:gold_barrel" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:gold_ingot",
+        [ 10 ] = "minecraft:gold_ingot",
+        [ 7 ] = "minecraft:gold_ingot",
+        [ 9 ] = "minecraft:gold_ingot",
+      },
+      displayName = "Gold Barrel",
+    },
+    [ "sc-goodies:blue_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:blue_concrete",
+        [ 10 ] = "minecraft:blue_concrete",
+        [ 6 ] = "minecraft:blue_concrete",
+        [ 5 ] = "minecraft:blue_concrete",
+        [ 9 ] = "minecraft:blue_concrete",
+      },
+      displayName = "Blue Concrete Stairs",
+    },
+    [ "sc-goodies:white_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:white_concrete",
+        [ 2 ] = "minecraft:white_concrete",
+      },
+      displayName = "White Concrete Slab",
+    },
+    [ "sc-goodies:light_blue_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:light_blue_concrete",
+        [ 10 ] = "minecraft:light_blue_concrete",
+        [ 6 ] = "minecraft:light_blue_concrete",
+        [ 5 ] = "minecraft:light_blue_concrete",
+        [ 9 ] = "minecraft:light_blue_concrete",
+      },
+      displayName = "Light Blue Concrete Stairs",
+    },
+    [ "sc-goodies:lime_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:lime_concrete",
+        [ 10 ] = "minecraft:lime_concrete",
+        [ 6 ] = "minecraft:lime_concrete",
+        [ 5 ] = "minecraft:lime_concrete",
+        [ 9 ] = "minecraft:lime_concrete",
+      },
+      displayName = "Lime Concrete Stairs",
+    },
+    [ "sc-goodies:magenta_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:magenta_concrete",
+        [ 2 ] = "minecraft:magenta_concrete",
+      },
+      displayName = "Magenta Concrete Slab",
+    },
+    [ "sc-goodies:diamond_chest" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:diamond",
+        [ 10 ] = "minecraft:diamond",
+        [ 7 ] = "minecraft:glass",
+        [ 9 ] = "minecraft:diamond",
+      },
+      displayName = "Diamond Chest",
+    },
+    [ "sc-goodies:amethyst_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:amethyst_block",
+        [ 2 ] = "minecraft:amethyst_block",
+      },
+      displayName = "Amethyst Slab",
+    },
+    [ "sc-goodies:cyan_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:cyan_concrete",
+        [ 10 ] = "minecraft:cyan_concrete",
+        [ 6 ] = "minecraft:cyan_concrete",
+        [ 5 ] = "minecraft:cyan_concrete",
+        [ 9 ] = "minecraft:cyan_concrete",
+      },
+      displayName = "Cyan Concrete Stairs",
+    },
+    [ "sc-goodies:amethyst_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:amethyst_block",
+        [ 10 ] = "minecraft:amethyst_block",
+        [ 6 ] = "minecraft:amethyst_block",
+        [ 5 ] = "minecraft:amethyst_block",
+        [ 9 ] = "minecraft:amethyst_block",
+      },
+      displayName = "Amethyst Stairs",
+    },
+    [ "sc-goodies:iron_chest" ] = {
+      count = 1,
+      ingredients = {
+        [ 11 ] = "minecraft:iron_ingot",
+        [ 10 ] = "minecraft:iron_ingot",
+        [ 7 ] = "minecraft:iron_ingot",
+        [ 9 ] = "minecraft:iron_ingot",
+      },
+      displayName = "Iron Chest",
+    },
+    [ "sc-goodies:brown_concrete_slab" ] = {
+      count = 6,
+      ingredients = {
+        [ 3 ] = "minecraft:brown_concrete",
+        [ 2 ] = "minecraft:brown_concrete",
+      },
+      displayName = "Brown Concrete Slab",
+    },
+    [ "sc-goodies:gray_concrete_stairs" ] = {
+      count = 4,
+      ingredients = {
+        [ 11 ] = "minecraft:gray_concrete",
+        [ 10 ] = "minecraft:gray_concrete",
+        [ 6 ] = "minecraft:gray_concrete",
+        [ 5 ] = "minecraft:gray_concrete",
+        [ 9 ] = "minecraft:gray_concrete",
+      },
+      displayName = "Gray Concrete Stairs",
+    },
+  },
+}
